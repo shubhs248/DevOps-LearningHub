@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
-[![Labs](https://img.shields.io/badge/Labs-9-blue.svg)](#-the-labs)
+[![Labs](https://img.shields.io/badge/Labs-10-blue.svg)](#-the-labs)
 
 ---
 
@@ -17,27 +17,29 @@ Most tutorials are either a tiny cheatsheet or a 600-page book. These sit in bet
 - **Ready-made solutions** to check yourself against.
 - **A cheatsheet** for quick revision.
 - **Interview questions** with answers you can say out loud.
+- **Diagrams** (light + dark) for the key concepts — in each lab's `docs/` gallery, ready for slides and LinkedIn.
 
 ## 🧭 The labs
 
 | # | Lab | What you practise | Interview Q&A |
 |---|-----|-------------------|:---:|
-| 1 | [📄 Linux🐧]https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 2 | [🐍 Python] https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/INTERVIEW-QUESTIONS.md) |
-| 3 | [🔀 Git Scenarios](https://github.com/shubhs248/Git-forDevOps) | merge conflicts, rebase, bisect, reflog recovery | [✓](https://github.com/shubhs248/Git-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 4 | [📄 YAML](https://github.com/shubhs248/YAML-forDevOps) | syntax, gotchas, fix-the-yaml, real DevOps configs | [✓](https://github.com/shubhs248/YAML-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 5 | [⚙️ Groovy & Jenkins](https://github.com/shubhs248/Groovy-forDevOps) | Groovy basics, automation, Jenkins pipelines | [✓](https://github.com/shubhs248/Groovy-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 6 | [🐳 Docker]() | Dockerfiles, multi-stage, fix-it, Compose | [✓](https://github.com/shubhs248/Docker-forDevOps/blob/main/INTERVIEW-QUESTIONS.mdhttps://github.com/shubhs248/Docker-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 7 | [☸️ Kubernetes](https://github.com/shubhs248/Kubernetes-forDevops) | workloads, services, probes, **debugging broken pods** | [✓](https://github.com/shubhs248/Kubernetes-forDevops/blob/main/INTERVIEW-QUESTIONS.md) |
-| 8 | [🌍 Terraform]([terraform-practice-lab/README.md](https://github.com/shubhs248/Terraform_forDevOps)) | HCL, state & drift, modules, fix-it (cost-free) | [✓](https://github.com/shubhs248/Terraform_forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 9 | [☁️ Cloud Fundamentals (AWS·Azure·GCP)](https://github.com/shubhs248/Cloud_forDevops) | core services, LocalStack hands-on, free-account setup | [AWS](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-AWS.md) · [Azure]([cloud-fundamentals-lab/INTERVIEW-QUESTIONS-AZURE.md](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-AZURE.md)) · [GCP](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-GCP.md) |
+| 1 | [🐧 Linux & Shell Scripting](linux-shell-practice-lab/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](linux-shell-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 2 | [🐍 Python for DevOps](python-devops-practice-lab/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](python-devops-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 3 | [🔀 Git Scenarios](git-scenarios-lab/README.md) | merge conflicts, rebase, bisect, reflog recovery | [✓](git-scenarios-lab/INTERVIEW-QUESTIONS.md) |
+| 4 | [📄 YAML](yaml-practice-lab/README.md) | syntax, gotchas, fix-the-yaml, real DevOps configs | [✓](yaml-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 5 | [⚙️ Groovy & Jenkins](groovy-practice-lab/README.md) | Groovy basics, automation, Jenkins pipelines | [✓](groovy-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 6 | [🐳 Docker](docker-practice-lab/README.md) | Dockerfiles, multi-stage, fix-it, Compose | [✓](docker-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 7 | [☸️ Kubernetes](kubernetes-practice-lab/README.md) | workloads, services, probes, **debugging broken pods** | [✓](kubernetes-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 8 | [🌍 Terraform](terraform-practice-lab/README.md) | HCL, state & drift, modules, fix-it (cost-free) | [✓](terraform-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 9 | [☁️ Cloud Fundamentals (AWS·Azure·GCP)](cloud-fundamentals-lab/README.md) | core services, LocalStack hands-on, free-account setup | [AWS](cloud-fundamentals-lab/INTERVIEW-QUESTIONS-AWS.md) · [Azure](cloud-fundamentals-lab/INTERVIEW-QUESTIONS-AZURE.md) · [GCP](cloud-fundamentals-lab/INTERVIEW-QUESTIONS-GCP.md) |
+| 10 | [🏗️ System Design (DevOps/SRE)](system-design-practice-lab/README.md) | a framework, building blocks, **worked design scenarios** (CI/CD, observability, HA) | [✓](system-design-practice-lab/INTERVIEW-QUESTIONS.md) |
 
 ## 🗺️ Suggested learning order
 
 A sensible path from fundamentals to platform skills:
 
 ```
-Linux/Shell → Python → Git → YAML → Docker → Kubernetes → Terraform → Cloud
+Linux/Shell → Python → Git → YAML → Docker → Kubernetes → Terraform → Cloud → System Design
                                   (Groovy/Jenkins any time you touch CI/CD)
 ```
 
@@ -46,6 +48,7 @@ Linux/Shell → Python → Git → YAML → Docker → Kubernetes → Terraform 
 3. **Orchestration & infra:** Kubernetes, Terraform.
 4. **Cloud:** AWS/Azure/GCP fundamentals (with free, local hands-on).
 5. **CI/CD glue:** Groovy & Jenkins whenever you're ready for pipelines.
+6. **Tie it together:** System Design — once you know the tools, practise combining them into resilient architectures (a common interview round).
 
 ## 🚀 How to use
 
@@ -64,6 +67,19 @@ Each lab is self-contained: open its `README.md`, work through the numbered part
 ## 🎤 Interview prep
 
 Every lab ships with an interview-questions file — plain-English answers you can say out loud, grouped from warm-up to senior level, plus hands-on prompts. They're linked in the table above.
+
+## 🖼️ Diagrams
+
+Every lab includes brand-styled diagrams of its key concepts, in **light and dark**, that adapt to your GitHub theme and double as ready-to-post images for LinkedIn/slides. Each lab's images live in its `docs/` folder (see that lab's `docs/README.md` gallery).
+
+They're generated from plain-text [Mermaid](https://mermaid.js.org/) sources (`<lab>/docs/src/*.mmd`) by a single script, so the look stays consistent everywhere:
+
+```powershell
+# from the repo root - renders every lab's diagrams (light + dark, PNG + SVG)
+powershell -NoProfile -ExecutionPolicy Bypass -File .\render-diagrams.ps1 -Force
+```
+
+No install needed — it uses the free [Kroki](https://kroki.io) rendering service.
 
 ## 🤝 Contributing
 
