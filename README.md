@@ -22,15 +22,15 @@ Most tutorials are either a tiny cheatsheet or a 600-page book. These sit in bet
 
 | # | Lab | What you practise | Interview Q&A |
 |---|-----|-------------------|:---:|
-| 1 | [🐧 Linux & Shell Scripting](linux-shell-practice-lab/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/README.md) |
-| 2 | [🐍 Python for DevOps](python-devops-practice-lab/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](python-devops-practice-lab/INTERVIEW-QUESTIONS.md) |
-| 3 | [🔀 Git Scenarios](git-scenarios-lab/README.md) | merge conflicts, rebase, bisect, reflog recovery | [✓](git-scenarios-lab/INTERVIEW-QUESTIONS.md) |
-| 4 | [📄 YAML](yaml-practice-lab/README.md) | syntax, gotchas, fix-the-yaml, real DevOps configs | [✓](yaml-practice-lab/INTERVIEW-QUESTIONS.md) |
-| 5 | [⚙️ Groovy & Jenkins](groovy-practice-lab/README.md) | Groovy basics, automation, Jenkins pipelines | [✓](groovy-practice-lab/INTERVIEW-QUESTIONS.md) |
-| 6 | [🐳 Docker](docker-practice-lab/README.md) | Dockerfiles, multi-stage, fix-it, Compose | [✓](docker-practice-lab/INTERVIEW-QUESTIONS.md) |
-| 7 | [☸️ Kubernetes](kubernetes-practice-lab/README.md) | workloads, services, probes, **debugging broken pods** | [✓](kubernetes-practice-lab/INTERVIEW-QUESTIONS.md) |
-| 8 | [🌍 Terraform](terraform-practice-lab/README.md) | HCL, state & drift, modules, fix-it (cost-free) | [✓](terraform-practice-lab/INTERVIEW-QUESTIONS.md) |
-| 9 | [☁️ Cloud Fundamentals (AWS·Azure·GCP)](cloud-fundamentals-lab/README.md) | core services, LocalStack hands-on, free-account setup | [AWS](cloud-fundamentals-lab/INTERVIEW-QUESTIONS-AWS.md) · [Azure](cloud-fundamentals-lab/INTERVIEW-QUESTIONS-AZURE.md) · [GCP](cloud-fundamentals-lab/INTERVIEW-QUESTIONS-GCP.md) |
+| 1 | [🐧 https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 2 | [🐍 https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/INTERVIEW-QUESTIONS.md) |
+| 3 | [🔀 Git Scenarios](https://github.com/shubhs248/Git-forDevOps) | merge conflicts, rebase, bisect, reflog recovery | [✓](https://github.com/shubhs248/Git-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 4 | [📄 YAML](https://github.com/shubhs248/YAML-forDevOps) | syntax, gotchas, fix-the-yaml, real DevOps configs | [✓](https://github.com/shubhs248/YAML-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 5 | [⚙️ Groovy & Jenkins](https://github.com/shubhs248/Groovy-forDevOps) | Groovy basics, automation, Jenkins pipelines | [✓](https://github.com/shubhs248/Groovy-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 6 | [🐳 Docker]() | Dockerfiles, multi-stage, fix-it, Compose | [✓](https://github.com/shubhs248/Docker-forDevOps/blob/main/INTERVIEW-QUESTIONS.mdhttps://github.com/shubhs248/Docker-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 7 | [☸️ Kubernetes](https://github.com/shubhs248/Kubernetes-forDevops) | workloads, services, probes, **debugging broken pods** | [✓](https://github.com/shubhs248/Kubernetes-forDevops/blob/main/INTERVIEW-QUESTIONS.md) |
+| 8 | [🌍 Terraform]([terraform-practice-lab/README.md](https://github.com/shubhs248/Terraform_forDevOps)) | HCL, state & drift, modules, fix-it (cost-free) | [✓](https://github.com/shubhs248/Terraform_forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 9 | [☁️ Cloud Fundamentals (AWS·Azure·GCP)](https://github.com/shubhs248/Cloud_forDevops) | core services, LocalStack hands-on, free-account setup | [AWS](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-AWS.md) · [Azure]([cloud-fundamentals-lab/INTERVIEW-QUESTIONS-AZURE.md](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-AZURE.md)) · [GCP](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-GCP.md) |
 
 ## 🗺️ Suggested learning order
 
