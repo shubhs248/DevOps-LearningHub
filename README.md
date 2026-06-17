@@ -22,7 +22,7 @@ Most tutorials are either a tiny cheatsheet or a 600-page book. These sit in bet
 
 | # | Lab | What you practise | Interview Q&A |
 |---|-----|-------------------|:---:|
-| 1 | [🐧 Linux & Shell Scripting](linux-shell-practice-lab/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](linux-shell-practice-lab/INTERVIEW-QUESTIONS.md) |
+| 1 | [🐧 Linux & Shell Scripting](linux-shell-practice-lab/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/README.md) |
 | 2 | [🐍 Python for DevOps](python-devops-practice-lab/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](python-devops-practice-lab/INTERVIEW-QUESTIONS.md) |
 | 3 | [🔀 Git Scenarios](git-scenarios-lab/README.md) | merge conflicts, rebase, bisect, reflog recovery | [✓](git-scenarios-lab/INTERVIEW-QUESTIONS.md) |
 | 4 | [📄 YAML](yaml-practice-lab/README.md) | syntax, gotchas, fix-the-yaml, real DevOps configs | [✓](yaml-practice-lab/INTERVIEW-QUESTIONS.md) |
