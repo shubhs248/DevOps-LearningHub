@@ -22,8 +22,8 @@ Most tutorials are either a tiny cheatsheet or a 600-page book. These sit in bet
 
 | # | Lab | What you practise | Interview Q&A |
 |---|-----|-------------------|:---:|
-| 1 | [🐧 https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/INTERVIEW-QUESTIONS.md) |
-| 2 | [🐍 https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/INTERVIEW-QUESTIONS.md) |
+| 1 | [📄 Linux🐧]https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/README.md) | commands, conditionals, loops, `grep`/`awk`/`sed` | [✓](https://github.com/shubhs248/Linux-ShellScripting-DevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 2 | [🐍 Python] https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/README.md) | parsing logs/CSV/JSON, automation, subprocess | [✓](https://github.com/shubhs248/PythonScripting-for-Devops/blob/main/INTERVIEW-QUESTIONS.md) |
 | 3 | [🔀 Git Scenarios](https://github.com/shubhs248/Git-forDevOps) | merge conflicts, rebase, bisect, reflog recovery | [✓](https://github.com/shubhs248/Git-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
 | 4 | [📄 YAML](https://github.com/shubhs248/YAML-forDevOps) | syntax, gotchas, fix-the-yaml, real DevOps configs | [✓](https://github.com/shubhs248/YAML-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
 | 5 | [⚙️ Groovy & Jenkins](https://github.com/shubhs248/Groovy-forDevOps) | Groovy basics, automation, Jenkins pipelines | [✓](https://github.com/shubhs248/Groovy-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
