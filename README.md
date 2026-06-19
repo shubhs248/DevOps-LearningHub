@@ -33,6 +33,8 @@ Most tutorials are either a tiny cheatsheet or a 600-page book. These sit in bet
 | 8 | [🌍 Terraform](https://github.com/shubhs248/Terraform_forDevOps) | HCL, state & drift, modules, fix-it (cost-free) | [✓](https://github.com/shubhs248/Terraform_forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
 | 9 | [☁️ Cloud Fundamentals (AWS·Azure·GCP)](https://github.com/shubhs248/Cloud_forDevops) | core services, LocalStack hands-on, free-account setup | [AWS](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-AWS.md) · [Azure](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-AZURE.md) · [GCP](https://github.com/shubhs248/Cloud_forDevops/blob/main/INTERVIEW-QUESTIONS-GCP.md) |
 | 10 | [🏗️ System Design (DevOps/SRE)](https://github.com/shubhs248/SystemDesign) | a framework, building blocks, **worked design scenarios** (CI/CD, observability, HA) | [✓](https://github.com/shubhs248/SystemDesign/blob/main/INTERVIEW-QUESTIONS.md) |
+| 11 | [⚡ CI/CD (GitHub Actions + GitLab CI)](https://github.com/shubhs248/CICD-forDevOps) | pipelines, jobs, matrix & cache, fix-it, **deploy strategies** (rolling/blue-green/canary) | [✓](https://github.com/shubhs248/CICD-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
+| 12 | [🤖 Ansible](https://github.com/shubhs248/Ansible-forDevOps) | playbooks, variables, handlers, roles, idempotency, **fix broken plays** (free/local) | [✓](https://github.com/shubhs248/Ansible-forDevOps/blob/main/INTERVIEW-QUESTIONS.md) |
 
 ## 🗺️ Suggested learning order
 
